@@ -1,0 +1,26 @@
+HOW TO COMPLETE ACTIVITY 2
+
+GOOGLE COLAB (recommended)
+1. Open https://colab.research.google.com/
+2. Upload Activity_2_House_Price_Prediction.ipynb from this ZIP.
+3. Run all cells from top to bottom.
+4. Allow the California Housing dataset to download when prompted (internet required).
+5. Confirm the metrics, plots, sample predictions and new prediction are displayed.
+6. Download the notebook with outputs and submit it with this project.
+
+LOCAL COMPUTER
+1. Extract the ZIP.
+2. Open a terminal in the extracted folder.
+3. Run: pip install -r requirements.txt
+4. Run: python run_project.py
+5. See generated files in outputs/ and figures/.
+
+GITHUB
+1. Create a NEW public repository with a name such as ML-CIE2-Activity2-ROLLNO.
+2. Replace ROLLNO with your own roll number.
+3. Upload this project's files and README.md.
+4. Commit/push the files and copy your public repository URL for submission.
+5. Add/follow the faculty profile link in README as instructed by the PDF.
+
+IMPORTANT
+The dataset is downloaded from scikit-learn/StatLib at runtime; the ZIP does not contain the dataset itself. Internet is needed for the first run. Do not submit fabricated metric values. Run the notebook and use the actual output from your run.
